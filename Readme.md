@@ -6,8 +6,8 @@ add the  `LocalForward $PORT localhost:$PORT`
 such as my port is set to 1695, so my config is 
 ```
 Host sc
-  HostName 192.168.10.50
-  User xuelei
+  HostName 192.168.xx.xx
+  User xxxxxx
   LocalForward 1695 localhost:1695
 ```
 
